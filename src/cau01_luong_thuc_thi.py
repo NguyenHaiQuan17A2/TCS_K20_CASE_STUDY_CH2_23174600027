@@ -1,0 +1,6 @@
+print("Bắt đầu phiên sử dụng")
+print("Kiểm tra thiết bị")
+
+print("Ghi nhận dữ liệu")
+print("Kết thúc phiên")
+
